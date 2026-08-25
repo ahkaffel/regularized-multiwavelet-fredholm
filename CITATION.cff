@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility package, please cite it using the metadata below."
+title: "Reproducibility Package for Regularized Multiwavelet Collocation Methods for Ill-Posed Fredholm Integral Equations of the First Kind"
+type: software
+authors:
+  - family-names: Kaffel
+    given-names: Ahmed
+version: 1.0.0
+date-released: 2026-08-24
+license: MIT
+repository-code: "https://github.com/ahkaffel/regularized-multiwavelet-fredholm"
+keywords:
+  - Fredholm integral equations
+  - inverse problems
+  - Tikhonov regularization
+  - Morozov discrepancy principle
+  - multiwavelets
+  - numerical analysis
